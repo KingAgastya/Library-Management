@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
         color : "#00ffff", 
         fontWeight : "bold", 
         justifyContent : "center", 
-        fontSize = 30, 
+        fontSize : 30, 
     },
     loginBox : {
         padding : 1,
